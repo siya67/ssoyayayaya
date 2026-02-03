@@ -7,10 +7,10 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Siya',
-    title: 'Your Title | Your Role',
+    title: 'Student | Undergraduate',
     image: getAsset('images/DSC_0223.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'am pursuing a BSc in Economics with Data Science (Honours) at Christ University, Bengaluru, where my coursework integrates economic theory with quantitative and computational methods. Alongside academics, I have engaged in applied research, data analysis projects, and financial modelling focused on policy and macroeconomic questions.\n' +
       '\n' +
       'Mention your institution or company, areas of interest, and what you teach or build.\n' +
       '\n' +
