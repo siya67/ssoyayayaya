@@ -12,13 +12,13 @@ const siteConfig = {
     description:
       'am pursuing a BSc in Economics with Data Science (Honours) at Christ University, Bengaluru, where my coursework integrates economic theory with quantitative and computational methods. Alongside academics, I have engaged in applied research, data analysis projects, and financial modelling focused on policy and macroeconomic questions.\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'Christ University.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'Keen interest in international law, and applied economic analysis. I study how power, institutions, and policy choices influence markets and long-term economic outcomes. My work combines research, quantitative methods, and strategic thinking to examine real-world economic and governance challenges.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    tagline: 'nice ot meet you!',
+    location: 'Your Bangalore, India',
   },
 
   seo: {
@@ -26,7 +26,7 @@ const siteConfig = {
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Your Role', 'Your Focus', 'Your Interest', 'Builder'],
+  animatedText: ['Student', 'Economics', 'Data Science', 'Builder'],
 
   navigation: [
     { name: 'Home', url: '/' },
